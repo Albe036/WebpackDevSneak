@@ -23,4 +23,4 @@ Proyecto FrontEnd Node
   <li>Gracias.</li>
 </ol>
 <h2>Puedes visualizar esta web online desde el siguiente enlace</h2>
-<a href="https://albe036.github.io/SneakPage/#">WEB ONLINE</a>
+<a href="https://albe036.github.io/SneakPage">WEB ONLINE</a>
