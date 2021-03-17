@@ -1,0 +1,58 @@
+[
+  {
+    "id" : 1,
+    "type" : "photography",
+    "title": "sunset",
+    "description" : "sunset on the sea, reflective red sun",
+    "url": "https://64.media.tumblr.com/1fe1ee76d6cc6ff6298b5c16daf209f9/a471c60163e98e9b-84/s1280x1920/fc9e653f9a8782721eaa72546f1045644fd21ca4.jpg"
+},
+{
+    "id" : 2,
+    "type" : "web",
+    "title": "programming code",
+    "description" : "Query the user by means of code, with the question 'Are you a robot?'",
+    "url": "https://64.media.tumblr.com/d5ba48c41ca654cff0c5f7ff2f78dacf/tumblr_py00bd6bW21yo6k6ko1_540.jpg"
+},
+{
+    "id" : 3,
+    "type" : "branding",
+    "title": "lamborghini car",
+    "description" : "lamborghini luxury car, metallic yellow color, high cost accessible by few people",
+    "url": "https://64.media.tumblr.com/696ea2e8c29af7c63e010af1e98de01a/45e6106502a786be-93/s1280x1920/b34512f4239e85331acd7cde8e30fb0af3ba4c8e.jpg"
+},
+{
+    "id" : 4,
+    "type" : "app",
+    "title": "Twitter",
+    "description" : "Social network of small texts and photos, very welcomed by the world community.",
+    "url": "https://64.media.tumblr.com/c750aa0c47c7a2d86fa00e96b863659e/46a23a369117ec18-a2/s540x810/5c717719c1bfa2403034f6e59eac4d1bb96edf28.png"
+  },
+  {
+    "id" : 5,
+    "type" : "photography",
+    "title": "mountain river",
+    "description" : "mountain river, maximum demonstration of nature",
+    "url": "https://64.media.tumblr.com/9f1bf63a9e3f154c005caa5672e56731/893894b2da59a4ca-da/s400x600/76bbf7bd4431e3f84d4c26c500598a419e921147.jpg"
+},
+{
+    "id" : 6,
+    "type" : "web",
+    "title": "CSS3",
+    "description" : "cascading css code, to style the web today.",
+    "url": "https://64.media.tumblr.com/20d4fe17a70cc90d9ec129bd1f7ca48a/tumblr_ps42uymqSU1wvyohc_1280.jpg"
+},
+{
+    "id" : 7,
+    "type" : "branding",
+    "title": "Playstation",
+    "description" : "one of the consoles most appreciated by the community worldwide.",
+    "url": "https://64.media.tumblr.com/3316409462652806b1f8cdc05b9cc810/4218b8ea2891f487-2e/s1280x1920/fe4a386baa4be979aedae97fb563734ab44de013.jpg"
+},
+{
+    "id" : 8,
+    "type" : "app",
+    "title": "tumblr",
+    "description" : "main logo, of the social network of images of any kind, with a very cultured community.",
+    "url": "https://64.media.tumblr.com/9f1763418547baf1d600c0b50fcdebb3/b136a73b77c58dfc-2f/s400x600/2ab2f8622664311d5536ade760bc47c6505c1a36.jpg"
+  }
+]
